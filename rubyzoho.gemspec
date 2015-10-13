@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'rubyzoho'
-  s.version = '0.5.0'
+  s.version = '0.5.1'
 
   s.required_rubygems_version = Gem::Requirement.new('>= 0') if s.respond_to? :required_rubygems_version=
   s.authors = ['amalc']
@@ -37,4 +37,3 @@ Gem::Specification.new do |s|
   s.add_development_dependency(%q<webmock>, ['>= 1.0'])
   s.add_development_dependency(%q<xml-simple>, ['>= 1.1'])
 end
-
